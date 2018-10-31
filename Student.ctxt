@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Student\ here.\r\n\ Stores\ all\ the\ student\ class\ data\r\n\ @author\ Lakshmi\ Saketh\r\n\ @version\ 03262018\r\n
+comment1.params=
+comment1.target=Student()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ StudentClass\r\n
+comment2.params=studentID\ studentName
+comment2.target=Student(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ StudentClass\r\n
+comment3.params=
+comment3.target=java.lang.String\ getStudentName()
+comment3.text=\r\n\ accessor\ for\ studentName\ variable\r\n\r\n\ @return\ student\ name\ in\ String\ format\r\n
+comment4.params=studentName
+comment4.target=void\ setStudentName(java.lang.String)
+comment4.text=\r\n\ mutator\ for\ studentName\ variable\r\n\r\n\ @param\ studentName\ provided\ input\ student\ Name\r\n
+comment5.params=
+comment5.target=java.lang.String\ getStudentID()
+comment5.text=\r\n\ accessor\ for\ studentID\ variable\r\n\r\n\ @return\ studentID\ in\ int\ format\r\n
+comment6.params=studentID
+comment6.target=void\ setStudentID(java.lang.String)
+comment6.text=\r\n\ mutator\ for\ studentID\ variable\r\n\r\n\ @param\ studentID\ provided\ input\ student\ ID\r\n
+comment7.params=studentID
+comment7.target=boolean\ isValid(java.lang.String)
+comment8.params=studentID
+comment8.target=boolean\ idExists(java.lang.String)
+numComments=9
